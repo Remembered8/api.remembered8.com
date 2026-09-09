@@ -88,6 +88,53 @@ class Memorial extends Model
     }
 
     /**
+     * Collections every client iterates over.
+     *
+     * The API only requires an id and a name, so a caller can legitimately post
+     * a sparse dossier. The web and mobile shells then map over these fields
+     * directly, and a missing one took the whole landing page down. Normalising
+     * on write means every reader gets the same shape.
+     */
+    private const COLLECTION_FIELDS = [
+        'timelineEvents',
+        'gallery',
+        'audioRecordings',
+        'videos',
+        'memories',
+        'familyTree',
+        'timeCapsules',
+        'treeDonations',
+        'importantDates',
+        'todayActivity',
+        'guardians',
+        'plaqueOrders',
+    ];
+
+    /** Fills in the fields readers assume are always present. */
+    public static function normaliseDocument(array $document): array
+    {
+        foreach (self::COLLECTION_FIELDS as $field) {
+            if (! isset($document[$field]) || ! is_array($document[$field])) {
+                $document[$field] = [];
+            }
+        }
+
+        $document['slug'] ??= $document['id'];
+        $document['candleCount'] = (int) ($document['candleCount'] ?? 0);
+        $document['visitedTodayCount'] = (int) ($document['visitedTodayCount'] ?? 0);
+
+        foreach (['birthDate', 'deathDate', 'birthPlace', 'restingPlace', 'profession',
+                  'lifeQuote', 'heroImage', 'biography', 'adminEmail'] as $field) {
+            $document[$field] ??= '';
+        }
+
+        $document['privacy'] ??= 'public';
+        $document['category'] ??= 'civilian';
+
+        return $document;
+    }
+
+    /**
      * Keeps the queryable columns in step with the document they summarise.
      *
      * The clients send the whole profile; without this the columns would drift
@@ -95,6 +142,8 @@ class Memorial extends Model
      */
     public function syncFromDocument(array $document): void
     {
+        $document = self::normaliseDocument($document);
+
         $this->fill([
             'slug' => $document['slug'] ?? $document['id'] ?? $this->id,
             'full_name' => $document['fullName'] ?? '',
