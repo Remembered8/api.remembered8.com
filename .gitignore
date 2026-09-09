@@ -25,3 +25,7 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Local registry database. Rebuilt with: php artisan migrate --seed
+/database/*.sqlite
+/database/*.sqlite-journal
