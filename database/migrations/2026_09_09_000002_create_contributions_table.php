@@ -22,7 +22,10 @@ return new class extends Migration
             $table->string('author_name')->default('');
             $table->string('relation')->default('');
             $table->string('location')->default('');
-            $table->text('body')->default('');
+            // MySQL refuses a default on a TEXT column (error 1101), so the empty
+            // body is defaulted on the model instead. SQLite accepted it, which is
+            // why this only surfaced on the first MySQL migration.
+            $table->text('body');
             $table->json('payload')->nullable();
             $table->boolean('is_approved')->default(false);
             $table->timestamps();

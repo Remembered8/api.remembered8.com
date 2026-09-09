@@ -19,6 +19,11 @@ class Contribution extends Model
     /** The kinds a visitor may leave. */
     public const KINDS = ['candle', 'memory', 'flower', 'tree', 'prayer'];
 
+    /** The schema cannot carry this default on MySQL, so the model does. */
+    protected $attributes = [
+        'body' => '',
+    ];
+
     protected $fillable = [
         'memorial_id',
         'kind',
