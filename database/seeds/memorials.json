@@ -1,0 +1,2025 @@
+[
+  {
+    "id": "albert-einstein",
+    "slug": "albert-einstein",
+    "fullName": "Albert Einstein",
+    "birthDate": "March 14, 1879",
+    "deathDate": "April 18, 1955",
+    "birthPlace": "Ulm, Kingdom of Wurttemberg, Germany",
+    "restingPlace": "Ashes scattered at Delaware River & Mercer Sanctuary Woods, Princeton, NJ",
+    "profession": "Theoretical Physicist, Philosopher of Science & 1921 Nobel Laureate",
+    "lifeQuote": "Our death is not an end if we can live on in our children and the younger generation. For they are us; our bodies are only wilted leaves on the tree of life.",
+    "heroImage": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+    "biography": "Albert Einstein (March 14, 1879 – April 18, 1955) was a German-born theoretical physicist universally recognized as one of the greatest and most influential minds in human history. He revolutionized our understanding of space, time, gravity, and the universe with the Special and General Theories of Relativity, earning the 1921 Nobel Prize in Physics for his discovery of the law of the photoelectric effect.\n\nBeyond his scientific triumphs, Einstein was a profound humanist, passionate pacifist, and lover of music who found peace playing his violin, 'Lina'. Believing that \"the most beautiful experience we can have is the mysterious,\" he viewed life as an interconnected cosmic harmony.\n\nIn accordance with his explicit final will for absolute simplicity and spiritual communion with the cosmos, he requested no tombstone or monument. His ashes were peacefully scattered into the flowing waters of the Delaware River and the timeless woodland paths of the Princeton Mercer Sanctuary—dissolving back into the infinite nature he so deeply revered.",
+    "candleCount": 92450,
+    "visitedTodayCount": 1680,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "adminEmail": "einstein.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "ae-1",
+        "title": "Birthday (Pi Day)",
+        "date": "03-14",
+        "type": "birthday",
+        "formattedDate": "March 14, 1879"
+      },
+      {
+        "id": "ae-2",
+        "title": "Commemoration of Eternal Passing",
+        "date": "04-18",
+        "type": "anniversary",
+        "formattedDate": "April 18, 1955"
+      },
+      {
+        "id": "ae-3",
+        "title": "Annus Mirabilis (Theory of Relativity)",
+        "date": "09-27",
+        "type": "special",
+        "formattedDate": "September 27, 1905"
+      }
+    ],
+    "todayActivity": [
+      {
+        "id": "ae-act1",
+        "actor": "Princeton Institute for Advanced Study",
+        "action": "lit an eternal tribute flame honoring cosmic curiosity.",
+        "timeAgo": "10 mins ago",
+        "type": "candle"
+      },
+      {
+        "id": "ae-act2",
+        "actor": "Max Planck Physics Society",
+        "action": "certified 500 memorial trees in the Cosmos Forest Sanctuary.",
+        "timeAgo": "1 hour ago",
+        "type": "tree"
+      },
+      {
+        "id": "ae-act3",
+        "actor": "418 Researchers Worldwide",
+        "action": "inscribed handwritten letters on humanism and scientific discovery.",
+        "timeAgo": "3 hours ago",
+        "type": "memory"
+      }
+    ],
+    "timelineEvents": [
+      {
+        "id": "ae-t1",
+        "year": 1879,
+        "date": "March 14, 1879",
+        "title": "Birth in Ulm, Germany",
+        "category": "life",
+        "description": "Born to Hermann Einstein and Pauline Koch in Ulm, showing early fascination with the invisible forces of a pocket compass.",
+        "location": "Ulm, Germany"
+      },
+      {
+        "id": "ae-t2",
+        "year": 1905,
+        "date": "1905",
+        "title": "Annus Mirabilis (The Miracle Year)",
+        "category": "milestone",
+        "description": "Published four groundbreaking papers in Annalen der Physik, formulating the photoelectric effect, Brownian motion, special relativity, and E = mc².",
+        "location": "Bern, Switzerland"
+      },
+      {
+        "id": "ae-t3",
+        "year": 1915,
+        "date": "November 1915",
+        "title": "Completion of General Relativity",
+        "category": "career",
+        "description": "Completed the field equations of General Relativity, demonstrating that gravity arises from the curvature of spacetime.",
+        "location": "Berlin, Germany"
+      },
+      {
+        "id": "ae-t4",
+        "year": 1921,
+        "date": "1921",
+        "title": "Awarded the Nobel Prize in Physics",
+        "category": "milestone",
+        "description": "Awarded the 1921 Nobel Prize in Physics for his discovery of the law of the photoelectric effect.",
+        "location": "Stockholm, Sweden"
+      },
+      {
+        "id": "ae-t5",
+        "year": 1933,
+        "date": "October 1933",
+        "title": "Institute for Advanced Study at Princeton",
+        "category": "career",
+        "description": "Emigrated to the United States and joined the Institute for Advanced Study in Princeton, continuing work on unified field theory.",
+        "location": "Princeton, New Jersey"
+      },
+      {
+        "id": "ae-t6",
+        "year": 1955,
+        "date": "April 18, 1955",
+        "title": "Return to the Cosmos & Nature Sanctuary",
+        "category": "life",
+        "description": "Passed peacefully at Princeton Hospital at age 76. His ashes were scattered into the Delaware River and Mercer Sanctuary woods.",
+        "location": "Princeton, New Jersey"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "ae-g1",
+        "url": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+        "caption": "Archival monochrome portrait of Albert Einstein in contemplative thought (1921).",
+        "year": "1921",
+        "location": "Vienna & Princeton",
+        "isDocument": false
+      },
+      {
+        "id": "ae-g2",
+        "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=1400&auto=format&fit=crop",
+        "caption": "The Serene Mercer Woods Sanctuary & Delaware River Path — The Infinite Perspective of Nature where Einstein walked and his ashes were scattered into the cosmos.",
+        "year": "Archival Sanctuary Record",
+        "location": "Mercer County & Delaware River, NJ",
+        "isDocument": false
+      },
+      {
+        "id": "ae-g3",
+        "url": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
+        "caption": "Albert Einstein portrait photograph during his years at Princeton.",
+        "year": "1947",
+        "location": "Institute for Advanced Study, Princeton",
+        "isDocument": false
+      }
+    ],
+    "audioRecordings": [
+      {
+        "id": "ae-a1",
+        "title": "The Common Language of Science (Archival Address)",
+        "speakerRelation": "Albert Einstein",
+        "year": "1941",
+        "duration": "06:12",
+        "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Atat%C3%BCrk_10th_Year_Speech.ogg",
+        "description": "Original radio broadcast on science as a universal bond that unites all humanity across frontiers."
+      }
+    ],
+    "videos": [],
+    "memories": [
+      {
+        "id": "ae-m1",
+        "authorName": "J. Robert Oppenheimer",
+        "relation": "Director, Institute for Advanced Study",
+        "date": "April 19, 1955",
+        "content": "He was almost wholly without sophistication and wholly without worldliness. There was always with him a wonderful purity at once childish and profoundly stubborn. He was dedicated to one thing: understanding the universe.",
+        "isApproved": true,
+        "isHighlighted": true,
+        "pinned": true
+      },
+      {
+        "id": "ae-m2",
+        "authorName": "Bertrand Russell",
+        "relation": "Philosopher & Mathematician",
+        "date": "April 20, 1955",
+        "content": "Einstein was not only a great scientist, he was a great man. He stood for peace in a world drifting toward war; he remained sane in a world of madness; and he never compromised with evil.",
+        "isApproved": true,
+        "isHighlighted": true,
+        "pinned": false
+      }
+    ],
+    "familyTree": [
+      {
+        "id": "ae-f1",
+        "name": "Hermann Einstein",
+        "relationType": "father",
+        "relationLabel": "Father (Featherbed Salesman & Electrical Engineer)",
+        "years": "1847 — 1902"
+      },
+      {
+        "id": "ae-f2",
+        "name": "Pauline Koch",
+        "relationType": "mother",
+        "relationLabel": "Mother (Musician & Homemaker)",
+        "years": "1858 — 1920"
+      },
+      {
+        "id": "ae-f3",
+        "name": "Maja Einstein",
+        "relationType": "sibling",
+        "relationLabel": "Sister (Literary Scholar)",
+        "years": "1881 — 1951"
+      },
+      {
+        "id": "ae-f4",
+        "name": "Hans Albert Einstein",
+        "relationType": "child",
+        "relationLabel": "Son (Professor of Hydraulic Engineering, UC Berkeley)",
+        "years": "1904 — 1973"
+      }
+    ],
+    "treeDonations": [
+      {
+        "id": "ae-tr1",
+        "donorName": "Global Fellowship of Physicists & Astronomers",
+        "treesCount": 2500,
+        "organization": "World Heritage Forest Project",
+        "message": "Planted along the Princeton Mercer Woodland Sanctuary in perpetual gratitude for illuminating the cosmos.",
+        "donatedAt": "March 14, 2024",
+        "certificateCode": "WHF-EINSTEIN-1879"
+      }
+    ]
+  },
+  {
+    "id": "ataturk",
+    "slug": "mustafa-kemal-ataturk",
+    "fullName": "Mustafa Kemal Atatürk",
+    "birthDate": "May 19, 1881",
+    "deathDate": "November 10, 1938",
+    "birthPlace": "Thessaloniki (Selanik)",
+    "restingPlace": "Anıtkabir Mausoleum, Ankara",
+    "profession": "Founding Statesman, Field Marshal & Visionary Reformer",
+    "lifeQuote": "To see me does not necessarily mean to see my face. To understand my thoughts is to have seen me.",
+    "heroImage": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+    "biography": "Gazi Mustafa Kemal Atatürk (1881 – November 10, 1938) was the founding father and first President of the Republic of Turkey, a military genius, and one of the most transformative visionary reformers of the 20th century.\n\nFrom Gallipoli to the War of Independence, and through comprehensive secular, educational, legal, and linguistic revolutions, he built a modern, sovereign, and forward-looking constitutional republic from the ashes of an empire.\n\nWith his enduring philosophy of \"Peace at home, peace in the world,\" he became an inspiration for self-determination and human progress worldwide. His steadfast faith in reason, science, universal arts, and youth keeps his legacy timeless across generations.",
+    "candleCount": 84320,
+    "visitedTodayCount": 1420,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "adminEmail": "heritage@remembered.app",
+    "importantDates": [
+      {
+        "id": "at-1",
+        "title": "National Awakening & Youth Day",
+        "date": "05-19",
+        "type": "birthday",
+        "formattedDate": "May 19, 1881"
+      },
+      {
+        "id": "at-2",
+        "title": "Commemoration of Eternal Passing",
+        "date": "11-10",
+        "type": "anniversary",
+        "formattedDate": "November 10, 1938"
+      },
+      {
+        "id": "at-3",
+        "title": "Proclamation of the Republic",
+        "date": "10-29",
+        "type": "special",
+        "formattedDate": "October 29, 1923"
+      }
+    ],
+    "todayActivity": [
+      {
+        "id": "at-act1",
+        "actor": "International Youth Society",
+        "action": "sealed an official memorial testament and homage letter.",
+        "timeAgo": "15 mins ago",
+        "type": "memory"
+      },
+      {
+        "id": "at-act2",
+        "actor": "342 Visitors",
+        "action": "lit reverence candles aligned to Anıtkabir sanctuary.",
+        "timeAgo": "1 hour ago",
+        "type": "candle"
+      },
+      {
+        "id": "at-act3",
+        "actor": "Global Forest Conservancy",
+        "action": "certified 100 memorial trees for the Atatürk Centennial Forest.",
+        "timeAgo": "3 hours ago",
+        "type": "tree"
+      }
+    ],
+    "timelineEvents": [
+      {
+        "id": "at-t1",
+        "year": 1881,
+        "date": "1881",
+        "title": "Birth in Thessaloniki",
+        "category": "life",
+        "description": "Born to Ali Riza Efendi and Zubeyde Hanim in a historical Macedonian home.",
+        "location": "Thessaloniki"
+      },
+      {
+        "id": "at-t2",
+        "year": 1915,
+        "date": "1915",
+        "title": "The Gallipoli Defense & Epic Leadership",
+        "category": "career",
+        "description": "Commanded the Anafartalar front with legendary fortitude, altering the course of world history.",
+        "location": "Gallipoli"
+      },
+      {
+        "id": "at-t3",
+        "year": 1919,
+        "date": "May 19, 1919",
+        "title": "Landing in Samsun & Independence Dawn",
+        "category": "milestone",
+        "description": "Stepped ashore from the Bandirma ferry to ignite the national liberation movement.",
+        "location": "Samsun"
+      },
+      {
+        "id": "at-t4",
+        "year": 1923,
+        "date": "October 29, 1923",
+        "title": "Proclamation of the Republic of Turkey",
+        "category": "milestone",
+        "description": "Elected as the First President of the Republic of Turkey.",
+        "location": "Ankara"
+      },
+      {
+        "id": "at-t5",
+        "year": 1938,
+        "date": "November 10, 1938",
+        "title": "Passing into Immortality",
+        "category": "life",
+        "description": "Passed away at Dolmabahçe Palace in Istanbul at 09:05 AM, leaving a timeless secular republic.",
+        "location": "Istanbul"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "at-g1",
+        "url": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg",
+        "caption": "Mustafa Kemal Atatürk — Official historic portrait (1930s).",
+        "year": "1930s",
+        "location": "Ankara",
+        "isDocument": false
+      },
+      {
+        "id": "at-g2",
+        "url": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/3/36/An%C4%B1tkabir_overview.jpg",
+        "caption": "Anıtkabir Mausoleum — The monumental resting sanctuary of Mustafa Kemal Atatürk in Ankara.",
+        "year": "1953",
+        "location": "Ankara",
+        "isDocument": false
+      },
+      {
+        "id": "at-g3",
+        "url": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/1/1b/Mustafa_Kemal_Atat%C3%BCrk%2C_1923.jpg",
+        "caption": "Mustafa Kemal Atatürk during the founding era of the Republic of Turkey (1923).",
+        "year": "1923",
+        "location": "Ankara",
+        "isDocument": false
+      }
+    ],
+    "audioRecordings": [
+      {
+        "id": "at-a1",
+        "title": "Tenth Year Republic Address (10. Yil Nutku)",
+        "speakerRelation": "Mustafa Kemal Atatürk",
+        "year": "1933",
+        "duration": "12:45",
+        "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Atat%C3%BCrk_10th_Year_Speech.ogg",
+        "description": "Historic original speech delivered at the 10th anniversary of the Republic in Ankara."
+      }
+    ],
+    "videos": [],
+    "memories": [
+      {
+        "id": "at-m1",
+        "authorName": "Lord Patrick Kinross (Biographer)",
+        "relation": "British Historian & Author",
+        "date": "November 10, 2025",
+        "content": "Atatürk was one of the greatest constructive statesmen of the modern world. He turned a devastated empire into a vibrant, forward-looking civil nation through sheer intellectual and moral strength.",
+        "isApproved": true,
+        "isHighlighted": true,
+        "pinned": true
+      }
+    ],
+    "familyTree": [
+      {
+        "id": "at-f1",
+        "name": "Ali Riza Efendi",
+        "relationType": "father",
+        "relationLabel": "Father (Customs Officer & Merchant)",
+        "years": "1839 — 1888"
+      },
+      {
+        "id": "at-f2",
+        "name": "Zubeyde Hanim",
+        "relationType": "mother",
+        "relationLabel": "Mother",
+        "years": "1857 — 1923"
+      },
+      {
+        "id": "at-f3",
+        "name": "Makbule Atadan",
+        "relationType": "sibling",
+        "relationLabel": "Sister",
+        "years": "1885 — 1956"
+      }
+    ],
+    "treeDonations": [
+      {
+        "id": "at-tr1",
+        "donorName": "Global Centennial Fellowship",
+        "treesCount": 1923,
+        "organization": "World Heritage Forest Project",
+        "message": "A living perpetual forest celebrating timeless human progress.",
+        "donatedAt": "October 29, 2023",
+        "certificateCode": "WHF-ATATURK-1923"
+      }
+    ]
+  },
+  {
+    "id": "nikola-tesla",
+    "slug": "nikola-tesla",
+    "fullName": "Nikola Tesla",
+    "birthDate": "July 10, 1856",
+    "deathDate": "January 7, 1943",
+    "birthPlace": "Smiljan, Austrian Empire (Croatia)",
+    "restingPlace": "Nikola Tesla Museum (Urn), Belgrade",
+    "profession": "Futurist, Electrical Engineer & Inventor",
+    "lifeQuote": "The present is theirs; the future, for which I really worked, is mine.",
+    "heroImage": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+    "biography": "Nikola Tesla (1856 – 1943) was a Serbian-American engineer and physicist whose visionary patents formed the foundation of modern alternating current (AC) electricity, radio communication, and wireless technologies.\n\nA man who lived decades ahead of his time, Tesla envisioned global wireless communication, clean energy transmission, and robotics long before the digital age. He dedicated his life purely to discovery, often prioritizing humanity's advancement over commercial gain.",
+    "candleCount": 52190,
+    "visitedTodayCount": 890,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "adminEmail": "tesla.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "nt-1",
+        "title": "Birthday (Midnight Lightning Storm)",
+        "date": "07-10",
+        "type": "birthday",
+        "formattedDate": "July 10, 1856"
+      },
+      {
+        "id": "nt-2",
+        "title": "Passing in New Yorker Hotel",
+        "date": "01-07",
+        "type": "anniversary",
+        "formattedDate": "January 7, 1943"
+      }
+    ],
+    "todayActivity": [
+      {
+        "id": "nt-act1",
+        "actor": "MIT Electrical Engineering Society",
+        "action": "lit a tribute flame in Boston.",
+        "timeAgo": "45 mins ago",
+        "type": "candle"
+      }
+    ],
+    "timelineEvents": [
+      {
+        "id": "nt-t1",
+        "year": 1856,
+        "date": "July 10, 1856",
+        "title": "Birth in Smiljan",
+        "category": "life",
+        "description": "Born at midnight during a fierce electrical lightning storm.",
+        "location": "Smiljan"
+      },
+      {
+        "id": "nt-t2",
+        "year": 1888,
+        "date": "May 1888",
+        "title": "AC Induction Motor Patent",
+        "category": "creation",
+        "description": "Patented the polyphase alternating current system alongside George Westinghouse.",
+        "location": "New York, USA"
+      },
+      {
+        "id": "nt-t3",
+        "year": 1901,
+        "date": "1901",
+        "title": "Wardenclyffe Tower & Global Wireless Dream",
+        "category": "milestone",
+        "description": "Constructed the historic tower aiming for worldwide wireless energy and broadcast.",
+        "location": "Long Island, NY"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "nt-g1",
+        "url": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+        "caption": "Nikola Tesla — Studio portrait circa 1890.",
+        "year": "1890"
+      },
+      {
+        "id": "nt-g2",
+        "url": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG",
+        "caption": "Tesla seated reading Roger Boscovich in front of the spiral coil of his high-frequency transformer.",
+        "year": "1899"
+      }
+    ],
+    "audioRecordings": [
+      {
+        "id": "nt-a1",
+        "title": "1937 — Radio Voice Broadcast Recording",
+        "year": "1937",
+        "duration": "03:15",
+        "description": "Nikola Tesla speaks on his 81st birthday regarding the future of mankind."
+      }
+    ],
+    "videos": [],
+    "memories": [
+      {
+        "id": "nt-m1",
+        "authorName": "Dr. Robert Oppenheimer",
+        "relation": "Physicist",
+        "date": "1943",
+        "content": "Tesla was one of the most generous intellects to ever illuminate our world. He lived for the dawn of tomorrow.",
+        "isApproved": true,
+        "isHighlighted": true
+      }
+    ],
+    "familyTree": [
+      {
+        "id": "nt-f1",
+        "name": "Milutin Tesla",
+        "relationType": "father",
+        "relationLabel": "Father (Eastern Orthodox Priest)",
+        "years": "1819 — 1879"
+      },
+      {
+        "id": "nt-f2",
+        "name": "Duka Mandic",
+        "relationType": "mother",
+        "relationLabel": "Mother (Home Crafts Inventor)",
+        "years": "1822 — 1892"
+      }
+    ]
+  },
+  {
+    "id": "marie-curie",
+    "slug": "marie-curie",
+    "fullName": "Marie Sklodowska Curie",
+    "birthDate": "November 7, 1867",
+    "deathDate": "July 4, 1934",
+    "birthPlace": "Warsaw, Poland",
+    "restingPlace": "Pantheon, Paris, France",
+    "profession": "Pioneering Physicist, Chemist & Double Nobel Laureate",
+    "lifeQuote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    "heroImage": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/c/c8/Marie_Curie_c._1920s.jpg",
+    "biography": "Marie Sklodowska Curie (1867 – 1934) was a Polish-French physicist and chemist who conducted pioneering research on radioactivity. \n\nShe remains the first woman to win a Nobel Prize, the first person to win Nobel Prizes in two distinct scientific fields (Physics 1903, Chemistry 1911), and the first female professor at the University of Paris.\n\nHer discovery of Polonium and Radium revolutionized physics, medicine, and cancer treatments, forever altering human scientific destiny with unparalleled courage.",
+    "candleCount": 46210,
+    "visitedTodayCount": 680,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "adminEmail": "curie.heritage@remembered.app",
+    "importantDates": [
+      {
+        "id": "mc-1",
+        "title": "Nobel Prize in Physics",
+        "date": "12-10",
+        "type": "special",
+        "formattedDate": "December 10, 1903"
+      }
+    ],
+    "todayActivity": [
+      {
+        "id": "mc-act1",
+        "actor": "Sorbonne University Physics Lab",
+        "action": "placed virtual white lilies on her Pantheon memorial registry.",
+        "timeAgo": "2 hours ago",
+        "type": "flower"
+      }
+    ],
+    "timelineEvents": [
+      {
+        "id": "mc-t1",
+        "year": 1867,
+        "date": "November 7, 1867",
+        "title": "Birth in Warsaw",
+        "category": "life",
+        "description": "Born Maria Sklodowska in Warsaw, Poland during the partitioned era.",
+        "location": "Warsaw"
+      },
+      {
+        "id": "mc-t2",
+        "year": 1898,
+        "date": "1898",
+        "title": "Discovery of Radium and Polonium",
+        "category": "creation",
+        "description": "Isolated two new radioactive elements alongside Pierre Curie in a modest laboratory workshop.",
+        "location": "Paris"
+      },
+      {
+        "id": "mc-t3",
+        "year": 1914,
+        "date": "1914",
+        "title": "Petites Curies (WW1 Mobile X-Ray Units)",
+        "category": "milestone",
+        "description": "Equipped mobile radiological ambulances, aiding over a million wounded soldiers on the frontlines.",
+        "location": "France"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "mc-g1",
+        "url": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/c/c8/Marie_Curie_c._1920s.jpg",
+        "caption": "Marie Curie — Nobel Laureate portrait.",
+        "year": "1920s"
+      },
+      {
+        "id": "mc-g2",
+        "url": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/7/71/Marie_Curie_at_Sorbonne.jpg",
+        "caption": "Marie Curie in her Laboratory at the University of Paris (Sorbonne).",
+        "year": "1912"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [
+      {
+        "id": "mc-m1",
+        "authorName": "Albert Einstein",
+        "relation": "Colleague & Lifelong Friend",
+        "date": "1934",
+        "content": "Marie Curie is, of all celebrated beings, the only one whom fame has not corrupted.",
+        "isApproved": true,
+        "isHighlighted": true
+      }
+    ],
+    "familyTree": [
+      {
+        "id": "mc-f1",
+        "name": "Pierre Curie",
+        "relationType": "spouse",
+        "relationLabel": "Husband & Nobel Laureate",
+        "years": "1859 — 1906"
+      },
+      {
+        "id": "mc-f2",
+        "name": "Irene Joliot-Curie",
+        "relationType": "child",
+        "relationLabel": "Daughter & Nobel Laureate",
+        "years": "1897 — 1956"
+      }
+    ]
+  },
+  {
+    "id": "baris-manco",
+    "slug": "baris-manco",
+    "fullName": "Barış Manço",
+    "birthDate": "January 2, 1943",
+    "deathDate": "February 1, 1999",
+    "birthPlace": "Moda, Istanbul",
+    "restingPlace": "Kanlica Cemetery, Istanbul",
+    "profession": "Cultural Ambassador, Composer, Songwriter & Global Traveler",
+    "lifeQuote": "The first language a human being must learn is the language of kindness and empathy.",
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Baris_Manco.jpg",
+    "biography": "Barış Manço (1943 – 1999) was one of the most beloved musical pioneers of Turkey, founder of Anatolian Rock, State Artist, and an ambassador of world harmony.\n\nWith immortal compositions such as 'Gulpembe', 'Donence', 'Arkadasim Esek', and 'Daglar Daglar', he touched millions of hearts. Through his legendary international broadcast program '7 to 77', he traveled to more than 150 nations, bringing the world together with warmth and humanity.",
+    "candleCount": 29480,
+    "visitedTodayCount": 420,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "adminEmail": "manco.heritage@remembered.app",
+    "importantDates": [
+      {
+        "id": "bm-1",
+        "title": "Birthday Commemoration",
+        "date": "01-02",
+        "type": "birthday",
+        "formattedDate": "January 2, 1943"
+      },
+      {
+        "id": "bm-2",
+        "title": "Passing to Eternity",
+        "date": "02-01",
+        "type": "anniversary",
+        "formattedDate": "February 1, 1999"
+      }
+    ],
+    "todayActivity": [
+      {
+        "id": "bm-act1",
+        "actor": "Kadıköy & Moda Memorial Fellowship",
+        "action": "lit a live remembrance candle at the Manço House Archive.",
+        "timeAgo": "1 hour ago",
+        "type": "candle"
+      }
+    ],
+    "timelineEvents": [
+      {
+        "id": "bm-t1",
+        "year": 1943,
+        "date": "January 2, 1943",
+        "title": "Birth in Moda",
+        "category": "life",
+        "description": "Born in Istanbul to Rikkat Uyanık and İsmail Hakkı Manço.",
+        "location": "Istanbul"
+      },
+      {
+        "id": "bm-t2",
+        "year": 1970,
+        "date": "1970",
+        "title": "Daglar Daglar & Golden Record",
+        "category": "career",
+        "description": "Released the landmark single uniting Anatolian folk modalities with progressive rock.",
+        "location": "Istanbul"
+      },
+      {
+        "id": "bm-t3",
+        "year": 1988,
+        "date": "October 1988",
+        "title": "Launch of 7 to 77 Television Series",
+        "category": "milestone",
+        "description": "Began the longest-running world travel, youth, and peace education documentary program.",
+        "location": "Worldwide"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "bm-g1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Baris_Manco.jpg",
+        "caption": "Barış Manço archival portrait in traditional rings, silver medallions and long hair (1985).",
+        "year": "1985",
+        "location": "Istanbul"
+      },
+      {
+        "id": "bm-g2",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bar%C4%B1%C5%9F_Man%C3%A7o_cropped.JPG",
+        "caption": "Barış Manço performing live on stage with Kurtalan Ekspres.",
+        "year": "Concert Archive",
+        "location": "Anatolian Tour"
+      },
+      {
+        "id": "bm-g3",
+        "url": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?q=80&w=1200&auto=format&fit=crop",
+        "caption": "Moda House Piano & Composition Sanctuary.",
+        "year": "Memorial Archive",
+        "location": "Kadıköy, Istanbul"
+      }
+    ],
+    "audioRecordings": [
+      {
+        "id": "bm-a1",
+        "title": "1995 — Parables, Music & Wisdom for Children",
+        "year": "1995",
+        "duration": "04:20",
+        "description": "Closing address and philosophical reflections from the 7 to 77 broadcast archives."
+      }
+    ],
+    "videos": [],
+    "memories": [
+      {
+        "id": "bm-m1",
+        "authorName": "Lale Manço",
+        "relation": "Spouse",
+        "date": "February 1, 2025",
+        "content": "Baris was not merely an artist; he was a soul whose greatest wealth was genuine love for humanity. The warmth he left behind remains vibrant across generations.",
+        "isApproved": true,
+        "isHighlighted": true,
+        "pinned": true
+      }
+    ],
+    "familyTree": [
+      {
+        "id": "bm-f1",
+        "name": "Rikkat Uyanık",
+        "relationType": "mother",
+        "relationLabel": "Mother (Classical Vocal Master)",
+        "years": "1921 — 1992"
+      },
+      {
+        "id": "bm-f2",
+        "name": "Lale Manço",
+        "relationType": "spouse",
+        "relationLabel": "Spouse & Heritage Guardian",
+        "years": "1954 — Present"
+      }
+    ]
+  },
+  {
+    "id": "leonardo-da-vinci",
+    "slug": "leonardo-da-vinci",
+    "fullName": "Leonardo da Vinci",
+    "birthDate": "April 15, 1452",
+    "deathDate": "May 2, 1519",
+    "birthPlace": "Vinci, Republic of Florence (Italy)",
+    "restingPlace": "Chateau d Amboise, France",
+    "profession": "Renaissance Polymath, Painter, Anatomist & Visionary Engineer",
+    "lifeQuote": "Learning never exhausts the mind. As a well-spent day brings happy sleep, so a life well spent brings happy death.",
+    "heroImage": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/b/ba/Leonardo_self.jpg",
+    "biography": "Leonardo di ser Piero da Vinci (1452 – 1519) was the quintessential Renaissance genius whose unquenchable curiosity and inventive imagination remain unmatched in human history.\n\nMaster of painting (Mona Lisa, The Last Supper), pioneer of flight concepts, hydraulic engineering, cartography, and human anatomy; Leonardo unified art and science into a single pursuit of universal truth.",
+    "candleCount": 71200,
+    "visitedTodayCount": 940,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "adminEmail": "davinci.archive@remembered.app",
+    "importantDates": [],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "ldv-t1",
+        "year": 1452,
+        "date": "April 15, 1452",
+        "title": "Birth in Vinci",
+        "category": "life",
+        "description": "Born in Tuscan hills near Florence.",
+        "location": "Vinci, Italy"
+      },
+      {
+        "id": "ldv-t2",
+        "year": 1503,
+        "date": "1503",
+        "title": "Mona Lisa Commenced",
+        "category": "creation",
+        "description": "Began painting the portrait of Lisa Gherardini with pioneering sfumato technique.",
+        "location": "Florence"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "ldv-g1",
+        "url": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/b/ba/Leonardo_self.jpg",
+        "caption": "Leonardo da Vinci — Self-portrait (circa 1512).",
+        "year": "1512"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "frida-kahlo",
+    "slug": "frida-kahlo",
+    "fullName": "Frida Kahlo",
+    "birthDate": "July 6, 1907",
+    "deathDate": "July 13, 1954",
+    "birthPlace": "Coyoacan, Mexico City",
+    "restingPlace": "La Casa Azul (Urn), Mexico City",
+    "profession": "Painter, Surrealist Icon & Feminist Cultural Beacon",
+    "lifeQuote": "Feet, what do I need you for when I have wings to fly?",
+    "heroImage": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg",
+    "biography": "Magdalena Carmen Frida Kahlo y Calderon (1907 – 1954) transformed deep physical pain, personal tragedy, and passionate love into unforgettable, raw artistic masterpieces.\n\nHer vibrant self-portraits, celebrated globally at La Casa Azul, explore identity, resilience, Mexican folk culture, and the transcendent strength of the human soul.",
+    "candleCount": 38940,
+    "visitedTodayCount": 510,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "adminEmail": "kahlo.heritage@remembered.app",
+    "importantDates": [],
+    "todayActivity": [],
+    "timelineEvents": [],
+    "gallery": [],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "alan-turing",
+    "slug": "alan-turing",
+    "fullName": "Alan Turing",
+    "birthDate": "June 23, 1912",
+    "deathDate": "June 7, 1954",
+    "birthPlace": "London, United Kingdom",
+    "restingPlace": "Woking Crematorium, Surrey, UK",
+    "profession": "Father of Modern Computing, Cryptanalyst & Mathematician",
+    "lifeQuote": "Sometimes it is the people no one imagines anything of who do the things that no one can imagine.",
+    "heroImage": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg",
+    "biography": "Alan Mathison Turing (1912 – 1954) was a British mathematician, logician, and codebreaker whose work at Bletchley Park cracking the Enigma cipher helped shorten World War II by years, saving millions of lives.\n\nHis theoretical formulation of the Turing Machine and the Turing Test established the foundational pillars of modern computer science and artificial intelligence.",
+    "candleCount": 42100,
+    "visitedTodayCount": 620,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "adminEmail": "turing.archive@remembered.app",
+    "importantDates": [],
+    "todayActivity": [],
+    "timelineEvents": [],
+    "gallery": [],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "asik-veysel",
+    "slug": "asik-veysel-satiroglu",
+    "fullName": "Âşık Veysel Şatıroğlu",
+    "birthDate": "October 25, 1894",
+    "deathDate": "March 21, 1973",
+    "birthPlace": "Sivrialan, Şarkışla, Sivas",
+    "restingPlace": "Sivrialan Village, Sivas",
+    "profession": "Folk Bard, Master of the Saz & Poet of Universal Humanity",
+    "lifeQuote": "I walk a long and narrow road, journeying day and night.",
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Asik_Veysel.jpg",
+    "biography": "Âşık Veysel Şatıroğlu (1894 – 1973) lost his eyesight to smallpox in early childhood, yet saw the universe through his inner spirit and the acoustic resonance of the saz.\n\nHis timeless poetic anthems — including 'My Faithful Lover is the Black Earth', 'Let Friends Remember Me', and 'I Walk a Long and Narrow Road' — stand as monumental pillars of human humility, ecological kinship, and spiritual grace.",
+    "candleCount": 31200,
+    "visitedTodayCount": 390,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "adminEmail": "veysel.archive@remembered.app",
+    "importantDates": [],
+    "todayActivity": [],
+    "timelineEvents": [],
+    "gallery": [],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "nelson-mandela",
+    "slug": "nelson-mandela",
+    "fullName": "Nelson Rolihlahla Mandela",
+    "birthDate": "July 18, 1918",
+    "deathDate": "December 5, 2013",
+    "birthPlace": "Mvezo, South Africa",
+    "restingPlace": "Qunu, Eastern Cape, South Africa",
+    "profession": "Anti-Apartheid Leader, Statesman & Nobel Peace Laureate",
+    "lifeQuote": "It always seems impossible until it is done. Education is the most powerful weapon which you can use to change the world.",
+    "heroImage": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/0/02/Nelson_Mandela_1994.jpg",
+    "biography": "Nelson Mandela (1918 – 2013), affectionately known as Madiba, was a revolutionary who spent 27 years imprisoned on Robben Island for opposing racial segregation, only to emerge without bitterness to unite a fractured nation as South Africa's first democratically elected president.",
+    "candleCount": 58900,
+    "visitedTodayCount": 780,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "adminEmail": "mandela.archive@remembered.app",
+    "importantDates": [],
+    "todayActivity": [],
+    "timelineEvents": [],
+    "gallery": [],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "abraham-lincoln",
+    "slug": "abraham-lincoln",
+    "fullName": "Abraham Lincoln",
+    "birthDate": "February 12, 1809",
+    "deathDate": "April 15, 1865",
+    "birthPlace": "Hodgenville, Kentucky, USA",
+    "restingPlace": "Lincoln Tomb, Oak Ridge Cemetery, Illinois, USA",
+    "profession": "16th President of the United States, Emancipator & Statesman",
+    "lifeQuote": "In the end, it is not the years in your life that count. It is the life in your years.",
+    "heroImage": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+    "biography": "Abraham Lincoln (1809 – 1865) preserved the Union during the American Civil War and issued the historic Emancipation Proclamation, forever ending slavery in the United States with profound moral eloquence.",
+    "candleCount": 41200,
+    "visitedTodayCount": 460,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "adminEmail": "lincoln.archive@remembered.app",
+    "importantDates": [],
+    "todayActivity": [],
+    "timelineEvents": [],
+    "gallery": [],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "proteo-k9",
+    "slug": "proteo-k9",
+    "fullName": "Proteo (Heroic Search & Rescue K-9)",
+    "birthDate": "2013",
+    "deathDate": "February 10, 2023",
+    "birthPlace": "Mexico",
+    "restingPlace": "SEDENA Military Honor Gardens (Mexico City) & Memorial Statue in Adıyaman",
+    "profession": "Military Search & Rescue Specialist & Fallen Earthquake Hero",
+    "lifeQuote": "You completed your mission with honor, dear friend; until your final breath, you never gave up on lives buried beneath the rubble.",
+    "heroImage": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?auto=format&fit=crop&q=80&w=800",
+    "biography": "During the catastrophic 2023 Kahramanmaraş and Adıyaman earthquakes, German Shepherd Proteo deployed to Turkey with the Mexican Secretariat of National Defense (SEDENA) Urban Search and Rescue detachment. Amid sub-zero temperatures and unstable ruins, Proteo successfully located and helped save three trapped civilians and one rescue personnel.\n\nOn February 10, 2023, while scouring a collapsed multi-story structure in Adıyaman, he was mortally injured when heavy structural debris gave way. His handler, Corporal Carlos Viveros Márquez, along with international emergency crews, stood in tearful salute. Proteo’s remains were repatriated to Mexico aboard a military aircraft with full military honors. Parks, veterinary facilities, and bronze monuments now stand in Mexico and Turkey to immortalize his noble sacrifice.",
+    "candleCount": 88400,
+    "visitedTodayCount": 1420,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Search & Rescue Canine (K-9)",
+    "breed": "German Shepherd",
+    "honorTitle": "Fallen Earthquake Hero & SEDENA Medal of Honor",
+    "adminEmail": "proteo.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "pr-d1",
+        "title": "Deployment to Turkey Earthquake Ground Zero",
+        "date": "02-08",
+        "type": "special",
+        "formattedDate": "February 8, 2023"
+      },
+      {
+        "id": "pr-d2",
+        "title": "Sacrifice in Adıyaman & Transition to Eternity",
+        "date": "02-10",
+        "type": "anniversary",
+        "formattedDate": "February 10, 2023"
+      }
+    ],
+    "todayActivity": [
+      {
+        "id": "pr-act1",
+        "actor": "International Search & Rescue League",
+        "action": "illuminated a memorial vigil torch saluting Proteo’s devotion.",
+        "timeAgo": "15 minutes ago",
+        "type": "candle"
+      }
+    ],
+    "timelineEvents": [
+      {
+        "id": "pr-t1",
+        "year": 2013,
+        "date": "2013",
+        "title": "Birth & Induction into SEDENA K-9 Division",
+        "category": "life",
+        "description": "Completed rigorous urban disaster search certification with distinction under the Mexican Military Command.",
+        "location": "Mexico City, Mexico"
+      },
+      {
+        "id": "pr-t2",
+        "year": 2023,
+        "date": "February 2023",
+        "title": "Mission in Turkey & Ultimate Sacrifice",
+        "category": "milestone",
+        "description": "Successfully located 3 trapped survivors before sustaining mortal injuries during search operations in Adıyaman.",
+        "location": "Adıyaman, Turkey"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "pr-g1",
+        "url": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?auto=format&fit=crop&q=80&w=800",
+        "caption": "Proteo — On duty as a heroic international search and rescue K-9.",
+        "year": "2023"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [
+      {
+        "id": "pr-m1",
+        "authorName": "Corporal Carlos Viveros Márquez",
+        "relation": "K-9 Handler & Lifelong Partner",
+        "date": "February 10, 2023",
+        "content": "You never surrendered, Proteo. You fulfilled your duty as a soldier and saved precious human lives. You will never be forgotten.",
+        "isApproved": true
+      },
+      {
+        "id": "pr-m2",
+        "authorName": "Earthquake Survivor Family from Adıyaman",
+        "relation": "Grateful Citizens",
+        "date": "February 15, 2023",
+        "content": "You gave your life so our loved ones could breathe again. The people of this land will forever honor your noble paws.",
+        "isApproved": true
+      }
+    ],
+    "familyTree": []
+  },
+  {
+    "id": "hachiko",
+    "slug": "hachiko",
+    "fullName": "Hachikō (The Faithful Akita of Shibuya)",
+    "birthDate": "November 10, 1923",
+    "deathDate": "March 8, 1935",
+    "birthPlace": "Ōdate, Akita Prefecture, Japan",
+    "restingPlace": "Aoyama Cemetery (beside Prof. Ueno) & Bronze Memorial at Shibuya Station, Tokyo",
+    "profession": "Universal Symbol of Loyalty & Eternal Devotion",
+    "lifeQuote": "True devotion defies time, death, and absence. Waiting is love in its purest, most sacred form.",
+    "heroImage": "https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&q=80&w=800",
+    "biography": "Hachikō was the cherished Akita companion of Hidesaburō Ueno, a professor of agriculture at Tokyo Imperial University. Every morning, Hachikō accompanied the professor to Shibuya Station, returning every afternoon to greet his master at the ticket gate.\n\nIn May 1925, Professor Ueno suffered a fatal cerebral hemorrhage during a lecture and never returned. For the next nine years, nine months, and fifteen days, Hachikō returned to Shibuya Station every single day precisely when the train was due, waiting patiently through snow, rain, and heat. Hachikō’s steadfast vigil captivated Japan and the world, becoming the enduring universal benchmark of unbroken fidelity.",
+    "candleCount": 96200,
+    "visitedTodayCount": 1850,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Canine Companion",
+    "breed": "Akita Inu (Golden/White)",
+    "honorTitle": "The Faithful Dog of Shibuya • National Treasure of Japan",
+    "adminEmail": "hachiko.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "h-d1",
+        "title": "Beginning of the 10-Year Vigil at Shibuya",
+        "date": "05-21",
+        "type": "special",
+        "formattedDate": "May 21, 1925"
+      },
+      {
+        "id": "h-d2",
+        "title": "Passing into Eternal Reunion",
+        "date": "03-08",
+        "type": "anniversary",
+        "formattedDate": "March 8, 1935"
+      }
+    ],
+    "todayActivity": [
+      {
+        "id": "h-act1",
+        "actor": "Tokyo Civic Commemoration Society",
+        "action": "placed memorial cherry blossoms at Shibuya Station statue.",
+        "timeAgo": "1 hour ago",
+        "type": "candle"
+      }
+    ],
+    "timelineEvents": [
+      {
+        "id": "h-t1",
+        "year": 1923,
+        "date": "Nov 1923",
+        "title": "Birth on a Farm in Ōdate",
+        "category": "life",
+        "description": "Adopted by Professor Hidesaburō Ueno and brought to Shibuya, Tokyo.",
+        "location": "Akita, Japan"
+      },
+      {
+        "id": "h-t2",
+        "year": 1925,
+        "date": "May 1925",
+        "title": "The Great Vigil Commences",
+        "category": "milestone",
+        "description": "Following Professor Ueno’s sudden passing, Hachikō began his daily vigil at the train exit.",
+        "location": "Shibuya Station, Tokyo"
+      },
+      {
+        "id": "h-t3",
+        "year": 1934,
+        "date": "April 1934",
+        "title": "Erection of the Bronze Statue",
+        "category": "milestone",
+        "description": "A bronze statue was unveiled in his presence outside Shibuya Station, attended by thousands.",
+        "location": "Tokyo, Japan"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "h-g1",
+        "url": "https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&q=80&w=800",
+        "caption": "Hachikō sitting peacefully near Shibuya Station, circa 1930s.",
+        "year": "1934"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [
+      {
+        "id": "h-m1",
+        "authorName": "Hirokichi Saito",
+        "relation": "President of Nihon Ken Hozonkai",
+        "date": "October 4, 1932",
+        "content": "This faithful dog reminds humanity of the purest bond: selfless, unwavering loyalty that outlasts life itself.",
+        "isApproved": true
+      }
+    ],
+    "familyTree": []
+  },
+  {
+    "id": "laika-space",
+    "slug": "laika-space",
+    "fullName": "Laika (Pioneer of the Cosmos)",
+    "birthDate": "1954",
+    "deathDate": "November 3, 1957",
+    "birthPlace": "Moscow, Soviet Union",
+    "restingPlace": "Orbit of Planet Earth (Sputnik 2) & Star City Cosmonaut Monument, Moscow",
+    "profession": "First Living Creature to Orbit Planet Earth & Cosmic Pioneer",
+    "lifeQuote": "The stars belong to the silent pioneers who paved humanity’s way with innocence and grace.",
+    "heroImage": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?auto=format&fit=crop&q=80&w=800",
+    "biography": "A calm and resilient stray rescued from the freezing winter streets of Moscow, Laika was selected for humanity's historic Sputnik 2 mission. On November 3, 1957, she became the very first living earthling to venture into the vacuum of space and enter Earth orbit.\n\nHer vital biomedical telemetry proved that living organisms could survive the launch stress and microgravity environment of spaceflight. Although 1950s technology lacked the capability for a safe atmospheric reentry, Laika’s brave and tragic voyage ignited global contemplation on ethics, gratitude, and the moral responsibilities humanity owes to all non-human companions. Today, a bronze monument depicting Laika standing atop a rocket rocket nozzle stands near the Military Medical Institute in Moscow.",
+    "candleCount": 94100,
+    "visitedTodayCount": 1610,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Cosmic Pioneer Canine",
+    "breed": "Siberian Husky & Terrier Mix",
+    "honorTitle": "Pioneer of the Cosmos • Hero of Space Exploration",
+    "adminEmail": "laika.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "l-d1",
+        "title": "Launch of Sputnik 2 into Earth Orbit",
+        "date": "11-03",
+        "type": "anniversary",
+        "formattedDate": "November 3, 1957"
+      }
+    ],
+    "todayActivity": [
+      {
+        "id": "l-act1",
+        "actor": "Astronomical Heritage Registry",
+        "action": "lit an eternal constellation candle in tribute to Laika.",
+        "timeAgo": "42 minutes ago",
+        "type": "candle"
+      }
+    ],
+    "timelineEvents": [
+      {
+        "id": "l-t1",
+        "year": 1957,
+        "date": "November 3, 1957",
+        "title": "First Living Creature in Earth Orbit",
+        "category": "milestone",
+        "description": "Launched aboard Sputnik 2, proving that higher organisms can endure spaceflight telemetry.",
+        "location": "Baikonur / Low Earth Orbit"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "l-g1",
+        "url": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?auto=format&fit=crop&q=80&w=800",
+        "caption": "Laika during training preparations for the Sputnik 2 orbital mission.",
+        "year": "1957"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [
+      {
+        "id": "l-m1",
+        "authorName": "Dr. Vladimir Yazdovsky",
+        "relation": "Lead Flight Surgeon & Scientist",
+        "date": "November 1957",
+        "content": "Laika was quiet and charming. Before taking her to the launch site, I took her home to play with my children. I wanted to do something nice for her.",
+        "isApproved": true
+      }
+    ],
+    "familyTree": []
+  },
+  {
+    "id": "balto-alaska",
+    "slug": "balto-alaska",
+    "fullName": "Balto (Lead Dog of the Serum Run)",
+    "birthDate": "1919",
+    "deathDate": "March 14, 1933",
+    "birthPlace": "Nome, Alaska, USA",
+    "restingPlace": "Central Park Bronze Memorial (New York City) & Cleveland Museum of Natural History",
+    "profession": "Arctic Sled Lead Dog & 1925 Great Race of Mercy Hero",
+    "lifeQuote": "Dedicated to the indomitable spirit of the sled dogs that relayed antitoxin through rough ice across treacherous waters.",
+    "heroImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&q=80&w=800",
+    "biography": "In January 1925, a deadly diphtheria epidemic broke out among the children of isolated Nome, Alaska. With blizzards grounding all aircraft and freezing the Bering Sea, the only hope for survival was a 674-mile dog sled relay through blizzard winds reaching -60°F (-51°C).\n\nBalto led Gunnar Kaasen’s team on the harrowing final 53-mile leg through whiteout blizzard conditions along the Topkok River and into Nome. Guided entirely by scent and instinct when Kaasen was blinded by the blizzard, Balto delivered the life-saving antitoxin at 5:30 AM on February 2, 1925, halting the epidemic and saving hundreds of children. In December 1925, a bronze statue was unveiled in New York's Central Park bearing the inscription: \"Endurance • Fidelity • Intelligence.\"",
+    "candleCount": 71200,
+    "visitedTodayCount": 980,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Sled Dog",
+    "breed": "Siberian Husky",
+    "honorTitle": "Savior of Nome • Central Park Hero",
+    "adminEmail": "balto.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "b-d1",
+        "title": "Arrival of Antitoxin Serum into Nome, Alaska",
+        "date": "02-02",
+        "type": "special",
+        "formattedDate": "February 2, 1925"
+      }
+    ],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "b-t1",
+        "year": 1925,
+        "date": "Feb 1925",
+        "title": "Final Leg of the 1925 Great Race of Mercy",
+        "category": "milestone",
+        "description": "Successfully navigated blinded whiteouts to deliver diphtheria antitoxin to Dr. Curtis Welch.",
+        "location": "Nome, Alaska"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "b-g1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Balto_1925.jpg",
+        "caption": "Balto photographed in Alaska immediately after completing the serum delivery.",
+        "year": "1925"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "togo-sled-hero",
+    "slug": "togo-sled-hero",
+    "fullName": "Togo (Champion Lead Dog & Arctic Legend)",
+    "birthDate": "October 17, 1913",
+    "deathDate": "December 5, 1929",
+    "birthPlace": "Nome, Alaska, USA",
+    "restingPlace": "Iditarod Trail Sled Dog Museum (Wasilla, Alaska) & Seward Park Statue, NYC",
+    "profession": "Master Arctic Lead Dog & Endurance Record Bearer",
+    "lifeQuote": "He ran not for glory or acclaim, but because he loved the trail and trusted his musher through breaking sea ice.",
+    "heroImage": "https://images.unsplash.com/photo-1605568427561-40dd23c2acea?auto=format&fit=crop&q=80&w=800",
+    "biography": "Togo was the indomitable lead sled dog of legendary musher Leonhard Seppala. During the 1925 Nome Serum Run, while other teams covered an average of 31 miles, Togo and Seppala tackled the most perilous section of the entire route: 260 treacherous miles across the shifting, fractured sea ice of Norton Sound in 85 mph gale winds and -85°F windchill.\n\nAt 12 years old, Togo saved his entire team when an ice floe broke loose, leaping across open ocean water to pull the towline ashore. Historians and mushing experts revere Togo as the true endurance champion of the Great Race of Mercy. In 2011, Time Magazine officially named Togo the most heroic animal in human history.",
+    "candleCount": 84300,
+    "visitedTodayCount": 1120,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Sled Dog",
+    "breed": "Seppala Siberian Sleddog",
+    "honorTitle": "True Master of the 1925 Serum Run • Time Most Heroic Animal",
+    "adminEmail": "togo.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "tg-d1",
+        "title": "Crossing of the Fractured Norton Sound Ice",
+        "date": "01-31",
+        "type": "special",
+        "formattedDate": "January 31, 1925"
+      }
+    ],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "tg-t1",
+        "year": 1925,
+        "date": "January 1925",
+        "title": "The 260-Mile Norton Sound Expedition",
+        "category": "milestone",
+        "description": "Led Seppala’s team across the longest and most hazardous leg of the Serum Run.",
+        "location": "Norton Sound, Alaska"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "tg-g1",
+        "url": "https://images.unsplash.com/photo-1605568427561-40dd23c2acea?auto=format&fit=crop&q=80&w=800",
+        "caption": "Togo resting alongside Leonhard Seppala after the historic Arctic trek.",
+        "year": "1925"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [
+      {
+        "id": "tg-m1",
+        "authorName": "Leonhard Seppala",
+        "relation": "Master Musher & Lifelong Companion",
+        "date": "1929",
+        "content": "I never had a better dog than Togo. His stamina, loyalty, and intelligence could not be equaled. Togo was the best dog that ever walked the Alaskan trail.",
+        "isApproved": true
+      }
+    ],
+    "familyTree": []
+  },
+  {
+    "id": "cher-ami",
+    "slug": "cher-ami",
+    "fullName": "Cher Ami (Heroic WWI Carrier Pigeon)",
+    "birthDate": "1918",
+    "deathDate": "June 13, 1919",
+    "birthPlace": "United Kingdom / France",
+    "restingPlace": "Smithsonian National Museum of American History, Washington, D.C.",
+    "profession": "World War I Signal Corps Homing Pigeon & Decorated Lifesaver",
+    "lifeQuote": "Through shrapnel and gunfire, one tiny heartbeat carried the salvation of 194 besieged soldiers.",
+    "heroImage": "https://images.unsplash.com/photo-1522858547137-f1dcec554f55?auto=format&fit=crop&q=80&w=800",
+    "biography": "During the Meuse-Argonne Offensive in October 1918, 550 men of the U.S. 77th Infantry Division (the \"Lost Battalion\") became trapped behind German lines with no food, water, or ammunition, and came under friendly artillery fire by mistake.\n\nMajor Charles Whittlesey dispatched Cher Ami with a desperate message strapped to her leg: \"We are along the road paralell 276.4. Our artillery is dropping a barrage directly on us. For heavens sake stop it.\" As she took flight, German troops opened fire. Blasted out of the sky, blinded in one eye, and shot through the breast with her right leg dangling by a single tendon, Cher Ami took flight again and flew 25 miles in 25 minutes. She delivered the message, the barrage ceased, and 194 surviving soldiers were saved. She was awarded the French Croix de Guerre with Palm.",
+    "candleCount": 65100,
+    "visitedTodayCount": 890,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Carrier Homing Pigeon",
+    "breed": "Racing Homer",
+    "honorTitle": "Croix de Guerre with Palm • Hero of the Lost Battalion",
+    "adminEmail": "cherami.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "ca-d1",
+        "title": "Historic Flight in the Argonne Forest",
+        "date": "10-04",
+        "type": "anniversary",
+        "formattedDate": "October 4, 1918"
+      }
+    ],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "ca-t1",
+        "year": 1918,
+        "date": "Oct 4, 1918",
+        "title": "Saving the Lost Battalion",
+        "category": "milestone",
+        "description": "Flew 25 miles under intense fire despite severe wounds, stopping friendly artillery fire and rescuing 194 soldiers.",
+        "location": "Meuse-Argonne, France"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "ca-g1",
+        "url": "https://images.unsplash.com/photo-1522858547137-f1dcec554f55?auto=format&fit=crop&q=80&w=800",
+        "caption": "Cher Ami preserved and honored at the Smithsonian Institution.",
+        "year": "1919"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "wojtek-bear",
+    "slug": "wojtek-bear",
+    "fullName": "Corporal Wojtek (The Soldier Bear)",
+    "birthDate": "1942",
+    "deathDate": "December 2, 1963",
+    "birthPlace": "Hamadan, Iran",
+    "restingPlace": "Princes Street Gardens Bronze Memorial (Edinburgh, Scotland) & Imperial War Museum",
+    "profession": "Enlisted Soldier of the Polish II Corps & Monte Cassino Veteran",
+    "lifeQuote": "A gentle giant who shared the soldiers’ rations, raised their morale, and carried artillery shells into battle.",
+    "heroImage": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?auto=format&fit=crop&q=80&w=800",
+    "biography": "Wojtek was an orphaned Syrian brown bear cub adopted in Iran in 1942 by soldiers of the Polish II Corps. To allow him onto British transport ships, he was officially enlisted as a private in the 22nd Artillery Supply Company, complete with military rank, serial number, and paybook.\n\nDuring the bloody Battle of Monte Cassino in Italy in 1944, Wojtek stepped forward under heavy bombardment, mimicking human soldiers by carrying 100-pound crates of 25-pounder artillery shells to the firing batteries without ever dropping a single one. In honor of his bravery, the Polish high command made an emblem of a bear carrying an artillery shell the official official insignia of the 22nd Artillery Company. Wojtek retired with the rank of Corporal to Edinburgh Zoo, visited frequently by his fellow veterans.",
+    "candleCount": 78900,
+    "visitedTodayCount": 1250,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Military War Mascot & Soldier",
+    "breed": "Syrian Brown Bear",
+    "honorTitle": "Corporal of the Polish II Corps • Monte Cassino Artillery Veteran",
+    "adminEmail": "wojtek.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "wj-d1",
+        "title": "Heroic Supply Action at Battle of Monte Cassino",
+        "date": "05-18",
+        "type": "special",
+        "formattedDate": "May 18, 1944"
+      }
+    ],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "wj-t1",
+        "year": 1944,
+        "date": "May 1944",
+        "title": "Artillery Operations at Monte Cassino",
+        "category": "milestone",
+        "description": "Transported heavy ammunition crates to frontline artillery batteries under artillery fire.",
+        "location": "Monte Cassino, Italy"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "wj-g1",
+        "url": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?auto=format&fit=crop&q=80&w=800",
+        "caption": "Corporal Wojtek pictured during his wartime military service in Italy.",
+        "year": "1944"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "tombili-kadikoy",
+    "slug": "tombili-kadikoy",
+    "fullName": "Tombili (The Philosophic Street Cat of Kadikoy)",
+    "birthDate": "2006",
+    "deathDate": "August 1, 2016",
+    "birthPlace": "Ziverbey, Kadıköy, Istanbul, Turkey",
+    "restingPlace": "Güleç Street Bronze Statue, Kadıköy, Istanbul",
+    "profession": "Beloved Mascot of Istanbul & Emblem of Urban Serenity",
+    "lifeQuote": "You will live forever in our hearts, great master of street contemplation and quiet neighborhood harmony.",
+    "heroImage": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800",
+    "biography": "Tombili was a chubby, friendly community cat who lived in the Ziverbey neighborhood of Kadıköy, Istanbul. She won the hearts of local residents and international millions when a photograph of her leaning casually against the sidewalk curb—resting her front paw like a contemplative neighborhood elder—went viral worldwide.\n\nWhen Tombili passed away on August 1, 2016, a change.org petition gathered 17,000 signatures. Kadıköy Mayor Aykurt Nuhoğlu commissioned sculptor Seval Şahin to cast a life-sized bronze sculpture of Tombili resting in her exact iconic pose on the very sidewalk stone where she used to greet passersby. Today, visitors from across the world leave cat food, flowers, and gentle pats at her monument in Kadıköy.",
+    "candleCount": 92400,
+    "visitedTodayCount": 1540,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Feline Companion",
+    "breed": "Anatolian Tabby Cat",
+    "honorTitle": "Iconic Cat of Kadıköy • Symbol of Istanbul Street Fellowship",
+    "adminEmail": "tombili.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "tb-d1",
+        "title": "Unveiling of the Bronze Monument on World Animal Day",
+        "date": "10-04",
+        "type": "special",
+        "formattedDate": "October 4, 2016"
+      }
+    ],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "tb-t1",
+        "year": 2016,
+        "date": "Oct 4, 2016",
+        "title": "Inauguration of Bronze Sculpture in Ziverbey",
+        "category": "milestone",
+        "description": "Erected on Güleç Street to preserve the gentle spirit of stray animals in Istanbul.",
+        "location": "Kadıköy, Istanbul"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "tb-g1",
+        "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800",
+        "caption": "Tombili captured in her iconic contemplative pose in Kadıköy.",
+        "year": "2015"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "gli-hagiasophia",
+    "slug": "gli-hagiasophia",
+    "fullName": "Gli (The Guardian Cat of Hagia Sophia)",
+    "birthDate": "2004",
+    "deathDate": "November 7, 2020",
+    "birthPlace": "Hagia Sophia, Istanbul, Turkey",
+    "restingPlace": "Courtyard Garden of Hagia Sophia, Istanbul",
+    "profession": "Resident Mascot & 16-Year Beloved Guardian of Hagia Sophia",
+    "lifeQuote": "Under the domes of sixteen centuries, you welcomed kings, presidents, and wandering travelers with quiet purrs and emerald eyes.",
+    "heroImage": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?auto=format&fit=crop&q=80&w=800",
+    "biography": "Gli was born in 2004 beneath the ancient imperial arches of Hagia Sophia and spent all sixteen years of her life roaming its marble halls and sunlit mosaics. With her cross-eyed green gaze, warm personality, and regal composure, she became one of the most famous and photographed felines in the world.\n\nIn 2009, when U.S. President Barack Obama and Turkish leaders toured Hagia Sophia, Gli stepped out onto the imperial marble to be gently stroked, smiling for world headlines. When Gli passed away in November 2020 at the age of 16, she was officially laid to rest with deep respect in the peaceful courtyard gardens of Hagia Sophia itself.",
+    "candleCount": 89300,
+    "visitedTodayCount": 1380,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Feline Companion",
+    "breed": "European Shorthair (Green-Eyed Tabby)",
+    "honorTitle": "Eternal Resident of Hagia Sophia",
+    "adminEmail": "gli.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "gl-d1",
+        "title": "Peaceful Burial in Hagia Sophia Courtyard",
+        "date": "11-08",
+        "type": "anniversary",
+        "formattedDate": "November 8, 2020"
+      }
+    ],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "gl-t1",
+        "year": 2009,
+        "date": "April 2009",
+        "title": "Global Greeting at Hagia Sophia",
+        "category": "milestone",
+        "description": "Welcomed world leaders and visitors under the grand domes of Istanbul.",
+        "location": "Istanbul, Turkey"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "gl-g1",
+        "url": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?auto=format&fit=crop&q=80&w=800",
+        "caption": "Gli sitting gracefully inside the grand hall of Hagia Sophia.",
+        "year": "2019"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "barry-stbernard",
+    "slug": "barry-stbernard",
+    "fullName": "Barry der Menschenretter (The Great Lifesaver of the Alps)",
+    "birthDate": "1800",
+    "deathDate": "1814",
+    "birthPlace": "Great St Bernard Hospice, Valais, Switzerland",
+    "restingPlace": "Natural History Museum of Bern & Monument at Cimetière des Chiens, Paris",
+    "profession": "Alpine Avalanche Search & Rescue Dog (40+ Rescues)",
+    "lifeQuote": "He saved forty men from the snow; may humanity honor the silent guardian who knew no fear in the face of the mountain.",
+    "heroImage": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?auto=format&fit=crop&q=80&w=800",
+    "biography": "Barry was a legendary rescue dog working with the Augustinian monks at the Great St Bernard Hospice, situated 8,100 feet up in the perilous Swiss-Italian Alps. During his fourteen years on duty through blizzard passes and avalanches, Barry personally saved the lives of more than 40 lost travelers.\n\nHis most celebrated rescue occurred when he discovered a small child frozen unconscious in an avalanche cavern. Barry licked the child until warmth returned, then gently carried the boy on his back across the mountain drifts to the safety of the monastery. A monument honoring him at the Cimetière des Chiens in Paris bears the inscription: \"Il sauva la vie à 40 personnes. Il fut tué par le 41ème\" (He saved the lives of 40 people).",
+    "candleCount": 67800,
+    "visitedTodayCount": 760,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Alpine Rescue Dog",
+    "breed": "St. Bernard (Alpine Mastiff)",
+    "honorTitle": "The Lifesaver of the Great St. Bernard Pass",
+    "adminEmail": "barry.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "br-d1",
+        "title": "Child Rescue from Alpine Avalanche",
+        "date": "03-12",
+        "type": "special",
+        "formattedDate": "March 12, 1805"
+      }
+    ],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "br-t1",
+        "year": 1805,
+        "date": "Winter 1805",
+        "title": "Historic Avalanche Rescue",
+        "category": "milestone",
+        "description": "Located and revived a child buried under mountain drifts, carrying him to the Hospice monks.",
+        "location": "Great St. Bernard Pass, Switzerland"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "br-g1",
+        "url": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?auto=format&fit=crop&q=80&w=800",
+        "caption": "Barry der Menschenretter preserved at the Natural History Museum of Bern.",
+        "year": "1814"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "fido-italy",
+    "slug": "fido-italy",
+    "fullName": "Fido (Italy’s 14-Year Symbol of Eternal Fidelity)",
+    "birthDate": "1941",
+    "deathDate": "June 9, 1958",
+    "birthPlace": "Luco di Mugello, Florence, Italy",
+    "restingPlace": "Borgo San Lorenzo Cemetery (beside Carlo Soriani) & Bronze Monument, Florence",
+    "profession": "Italian Symbol of Loyalty & Devotion (5,000-Day Bus Stop Vigil)",
+    "lifeQuote": "To wait without doubt or despair; love remains pure even when war and time steal everything away.",
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Statua_del_cane_Fido.jpg",
+    "biography": "In 1941, brick kiln worker Carlo Soriani found an injured puppy on a roadside ditch in Borgo San Lorenzo, Tuscany, took him home, nursed him to health, and named him Fido (\"Faithful\"). Every afternoon, Fido would walk to the central village square to wait for Carlo's bus returning from the kiln.\n\nOn December 30, 1943, Allied bombs struck the factory in Borgo San Lorenzo, killing Carlo. Fido waited at the bus stop that evening, but his master never stepped off. For the next 14 years—more than 5,000 consecutive days—Fido walked to the bus stop every afternoon, watching each passenger disembark before heading home alone. In 1957, the Mayor of Borgo San Lorenzo awarded Fido a gold medal and unveiled a bronze monument in the public square while Fido was still alive.",
+    "candleCount": 74200,
+    "visitedTodayCount": 940,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Canine Companion",
+    "breed": "White & Brown Italian Mixed Breed",
+    "honorTitle": "Gold Medal of Fidelity • National Symbol of Italy",
+    "adminEmail": "fido.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "fd-d1",
+        "title": "Conferral of the Gold Medal of Civic Fidelity",
+        "date": "11-09",
+        "type": "special",
+        "formattedDate": "November 9, 1957"
+      }
+    ],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "fd-t1",
+        "year": 1943,
+        "date": "Dec 30, 1943",
+        "title": "Commencement of the 14-Year Vigil",
+        "category": "milestone",
+        "description": "Began his daily vigil at the bus stop following the wartime bombing of Borgo San Lorenzo.",
+        "location": "Luco di Mugello, Italy"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "fd-g1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Statua_del_cane_Fido.jpg",
+        "caption": "The bronze monument of Fido overlooking the square in Borgo San Lorenzo.",
+        "year": "1957"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "sergeant-stubby",
+    "slug": "sergeant-stubby",
+    "fullName": "Sergeant Stubby (The Decorated War Dog of World War I)",
+    "birthDate": "1916",
+    "deathDate": "March 16, 1926",
+    "birthPlace": "New Haven, Connecticut, USA",
+    "restingPlace": "Smithsonian National Museum of American History, Washington, D.C.",
+    "profession": "Only Dog Promoted to Sergeant through Combat • 102nd Infantry Regiment Veteran",
+    "lifeQuote": "A stray from the Yale campus who captured spies, warned of poison gas, and comforted wounded soldiers on seventeen battlefields.",
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sergeant_Stubby.jpg",
+    "biography": "A stray Boston Terrier mix wandering around the Yale University grounds in 1917, Stubby was adopted by Corporal Robert Conroy of the 102nd Infantry, 26th (Yankee) Division, and smuggled aboard a troopship to France.\n\nStubby served in 17 battles across four major offensives on the Western Front. With his keen senses, he warned his unit of incoming mustard gas attacks and quiet nighttime artillery bombardments before humans could hear them, located wounded soldiers in No Man's Land, and single-handedly captured a German spy by biting the seat of his pants until soldiers arrived. For his battlefield heroics, Stubby was promoted to the rank of Sergeant—the first canine to achieve combat rank in U.S. history. He was presented with a gold medal by General John J. Pershing and met three sitting U.S. Presidents.",
+    "candleCount": 82500,
+    "visitedTodayCount": 1110,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Military Combat Dog",
+    "breed": "Boston Terrier Mix",
+    "honorTitle": "Sergeant of the 102nd Infantry • Most Decorated War Dog",
+    "adminEmail": "stubby.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "st-d1",
+        "title": "Promotion to Sergeant for Battlefield Valor",
+        "date": "04-20",
+        "type": "special",
+        "formattedDate": "April 20, 1918"
+      }
+    ],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "st-t1",
+        "year": 1918,
+        "date": "1918",
+        "title": "Service Across 17 Battles in France",
+        "category": "milestone",
+        "description": "Warned doughboys of gas attacks, comforted the wounded, and secured combat promotion.",
+        "location": "Western Front, France"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "st-g1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sergeant_Stubby.jpg",
+        "caption": "Sergeant Stubby wearing his custom uniform with battle medals and insignia.",
+        "year": "1919"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "street-cat-bob",
+    "slug": "street-cat-bob",
+    "fullName": "Bob the Cat (A Street Cat Named Bob)",
+    "birthDate": "2006",
+    "deathDate": "June 15, 2020",
+    "birthPlace": "London, England, United Kingdom",
+    "restingPlace": "Islington Green Bronze Statue, London, United Kingdom",
+    "profession": "Inspirational Companion & International Symbol of Hope and Redemption",
+    "lifeQuote": "He gave me a reason to get up every morning and look forward to the day. He saved my life, plain and simple.",
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/7/7b/A_Street_Cat_Named_Bob_London_film_premiere_%28cropped%29.jpg",
+    "biography": "In 2007, James Bowen was an injured, homeless recovering addict busking on the streets of Covent Garden in London. When he found an abandoned, wounded ginger cat in the hallway of his supported housing, Bowen spent his last money on antibiotics to nurse the cat back to health and named him Bob.\n\nWhen Bob refused to leave his side—riding on James's shoulders and sitting quietly on his guitar case as he busked—the inseparable duo captured the heart of London. Bowen wrote the bestselling memoir \"A Street Cat Named Bob,\" which was adapted into an award-winning feature film. Bob inspired millions of people around the world recovering from addiction, grief, and homelessness. In July 2021, a bronze memorial bench sculpture of Bob was unveiled at Islington Green in London.",
+    "candleCount": 88700,
+    "visitedTodayCount": 1470,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Feline Companion",
+    "breed": "Ginger Tabby Cat",
+    "honorTitle": "Savior and Muse • Islington Green Bronze Memorial",
+    "adminEmail": "bob.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "bb-d1",
+        "title": "Unveiling of Islington Green Memorial Bench",
+        "date": "07-15",
+        "type": "special",
+        "formattedDate": "July 15, 2021"
+      }
+    ],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "bb-t1",
+        "year": 2007,
+        "date": "March 2007",
+        "title": "Fateful Encounter in London",
+        "category": "life",
+        "description": "James Bowen and Bob formed an unbreakable bond on the streets of Covent Garden.",
+        "location": "London, UK"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "bb-g1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/A_Street_Cat_Named_Bob_London_film_premiere_%28cropped%29.jpg",
+        "caption": "Bob the Cat attending his film premiere in London.",
+        "year": "2016"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [
+      {
+        "id": "bb-m1",
+        "authorName": "James Bowen",
+        "relation": "Partner & Author",
+        "date": "June 2020",
+        "content": "Bob saved my life. It’s as simple as that. He gave me so much more than companionship. With him at my side, I found a direction and that purpose that I’d been missing.",
+        "isApproved": true
+      }
+    ],
+    "familyTree": []
+  },
+  {
+    "id": "diesel-raid",
+    "slug": "diesel-raid",
+    "fullName": "Diesel (French RAID Tactical Assault K-9 Hero)",
+    "birthDate": "2008",
+    "deathDate": "November 18, 2015",
+    "birthPlace": "France",
+    "restingPlace": "RAID National Police Headquarters Memorial, Bièvres, France",
+    "profession": "Elite Tactical Police K-9 & Dickin Medal Recipient",
+    "lifeQuote": "Shielding fellow officers by stepping into the breach; valor knows no distinction of species.",
+    "heroImage": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?q=80&w=1200&auto=format&fit=crop",
+    "biography": "Diesel was a 7-year-old Belgian Malinois serving with RAID (Recherche, Assistance, Intervention, Dissuasion), the elite anti-terrorist tactical unit of the French National Police. She was an assault and explosives detection specialist with five years of frontline operational experience.\n\nOn November 18, 2015, during the Saint-Denis counter-terrorism raid following the Paris attacks, RAID officers were pinned down by gunfire in a barricaded apartment. Diesel was sent ahead to assess booby traps and armed suspects, drawing fire and shielding her handler and team from hidden explosives and ambush. She was mortally wounded during the assault. For her supreme gallantry in the line of duty, the UK's PDSA awarded Diesel the Dickin Medal, the highest military honor for animal valor in the world.",
+    "candleCount": 71600,
+    "visitedTodayCount": 920,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Tactical Assault K-9",
+    "breed": "Belgian Malinois",
+    "honorTitle": "PDSA Dickin Medal of Gallantry • French Police Medal of Honor",
+    "adminEmail": "diesel.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "ds-d1",
+        "title": "Heroic Action during Saint-Denis Raid",
+        "date": "11-18",
+        "type": "anniversary",
+        "formattedDate": "November 18, 2015"
+      }
+    ],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "ds-t1",
+        "year": 2015,
+        "date": "Nov 18, 2015",
+        "title": "Counter-Terrorism Operation in Saint-Denis",
+        "category": "milestone",
+        "description": "Shielded tactical assault officers and exposed ambush emplacements before falling in action.",
+        "location": "Paris, France"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "ds-g1",
+        "url": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?q=80&w=1200&auto=format&fit=crop",
+        "caption": "Belgian Malinois K-9 — Representative of Diesel’s tactical discipline and courage.",
+        "year": "2015"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "greyfriars-bobby",
+    "slug": "greyfriars-bobby",
+    "fullName": "Greyfriars Bobby (Scotland’s 14-Year Kirkyard Guardian)",
+    "birthDate": "May 4, 1855",
+    "deathDate": "January 14, 1872",
+    "birthPlace": "Midlothian, Scotland, United Kingdom",
+    "restingPlace": "Greyfriars Kirkyard (near John Gray’s grave) & Candlemaker Row Bronze Fountain, Edinburgh",
+    "profession": "Legendary Scottish Symbol of Devotion & City Ward of Edinburgh",
+    "lifeQuote": "Let his loyalty and devotion be a lesson to us all.",
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Greyfriars_Bobby_statue_Edinburgh.jpg",
+    "biography": "Greyfriars Bobby was a Skye Terrier in 19th-century Edinburgh who belonged to John Gray, a night watchman for the Edinburgh City Police. When John Gray died of tuberculosis in 1858 and was buried in Greyfriars Kirkyard, Bobby refused to abandon the site.\n\nFor fourteen years until his own death in 1872, Bobby kept constant watch over his master's grave through Scottish winter freezes and rains, leaving only once a day for a meal at John Traill’s coffee house when the One O'Clock Gun fired from Edinburgh Castle. When dog licensing laws threatened Bobby's safety in 1867, the Lord Provost of Edinburgh, Sir William Chambers, personally paid for his dog license and presented Bobby with an engraved brass collar making him an official ward of the city. A bronze fountain statue at Candlemaker Row preserves Bobby's beloved legacy.",
+    "candleCount": 86400,
+    "visitedTodayCount": 1190,
+    "privacy": "public",
+    "isVerifiedHistoric": true,
+    "category": "animal_companion",
+    "species": "Canine Companion",
+    "breed": "Skye Terrier",
+    "honorTitle": "Ward of the City of Edinburgh • Symbol of Scottish Fidelity",
+    "adminEmail": "bobby.archive@remembered.app",
+    "importantDates": [
+      {
+        "id": "gb-d1",
+        "title": "Lord Provost Bestowal of Freedom of the City",
+        "date": "06-15",
+        "type": "special",
+        "formattedDate": "June 15, 1867"
+      }
+    ],
+    "todayActivity": [],
+    "timelineEvents": [
+      {
+        "id": "gb-t1",
+        "year": 1858,
+        "date": "1858",
+        "title": "Vigil Begins at Greyfriars Kirkyard",
+        "category": "milestone",
+        "description": "Remained beside John Gray’s grave for 14 continuous years.",
+        "location": "Edinburgh, Scotland"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "gb-g1",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Greyfriars_Bobby_statue_Edinburgh.jpg",
+        "caption": "The historic bronze statue of Greyfriars Bobby at the head of Candlemaker Row.",
+        "year": "1873"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [],
+    "familyTree": []
+  },
+  {
+    "id": "ahmet-yilmaz",
+    "slug": "ahmet-yilmaz",
+    "fullName": "Ahmet Yilmaz",
+    "category": "civilian",
+    "birthDate": "March 18, 1948",
+    "deathDate": "November 18, 2025",
+    "birthPlace": "Trabzon, Turkey",
+    "restingPlace": "Zincirlikuyu Sanctuary, Istanbul",
+    "profession": "Master Architect & Urban Preservationist",
+    "lifeQuote": "He chose to instill hope in people and leave enduring, elegant footprints on the cities he touched.",
+    "heroImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800",
+    "biography": "Ahmet Yilmaz was born on March 18, 1948, on the Black Sea coast of Trabzon. From his early youth, he was fascinated by the craftsmanship of aged stone, timber architecture, and peaceful urban sanctuaries where communities gathered in harmony.\n\nAfter graduating from Istanbul Technical University Faculty of Architecture in 1968, he dedicated his career to cultural preservation and civic architecture. In 1974, he married the love of his life, Zeliha.\n\nThroughout his lifetime, he designed civic libraries, children's botanic sanctuaries, and public squares. He frequently shared this guidance with younger architects: \"Draw a building not merely for visual splendor, but for the serenity of the souls who will live and reflect within it.\"",
+    "candleCount": 142,
+    "visitedTodayCount": 18,
+    "privacy": "public",
+    "adminEmail": "zeynep.yilmaz@family.archive",
+    "importantDates": [
+      {
+        "id": "date-1",
+        "title": "Birthday Celebration",
+        "date": "03-18",
+        "type": "birthday",
+        "formattedDate": "March 18"
+      },
+      {
+        "id": "date-2",
+        "title": "Memorial Remembrance Day",
+        "date": "11-18",
+        "type": "anniversary",
+        "formattedDate": "November 18"
+      }
+    ],
+    "todayActivity": [
+      {
+        "id": "act-1",
+        "actor": "Mehmet Yilmaz (Son)",
+        "action": "added a remembrance letter: \"Father's first drafting desk and compass...\"",
+        "timeAgo": "2 hours ago",
+        "type": "memory"
+      }
+    ],
+    "timelineEvents": [
+      {
+        "id": "t-1",
+        "year": 1948,
+        "date": "March 18, 1948",
+        "title": "Birth in Trabzon",
+        "category": "life",
+        "description": "Born in an old seaside mansion in Ortahisar, Trabzon.",
+        "location": "Trabzon"
+      },
+      {
+        "id": "t-2",
+        "year": 1968,
+        "date": "June 1968",
+        "title": "Graduation with Honors",
+        "category": "career",
+        "description": "Graduated from Istanbul Technical University Faculty of Architecture.",
+        "location": "Istanbul"
+      },
+      {
+        "id": "t-3",
+        "year": 1974,
+        "date": "September 14, 1974",
+        "title": "Marriage to Zeliha",
+        "category": "milestone",
+        "description": "Celebrated marriage in Istanbul, founding a lifetime of mutual devotion and art.",
+        "location": "Istanbul"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "ay-g1",
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800",
+        "caption": "Ahmet Yilmaz — Studio Portrait at the Drawing Table.",
+        "year": "1985",
+        "location": "Istanbul Studio"
+      }
+    ],
+    "audioRecordings": [],
+    "videos": [],
+    "memories": [
+      {
+        "id": "m-1",
+        "authorName": "Zeynep Yilmaz",
+        "relation": "Daughter",
+        "date": "November 18, 2025",
+        "content": "Dear father, your quiet kindness, deep integrity, and unwavering love remain my greatest guiding light.",
+        "isApproved": true,
+        "isHighlighted": true,
+        "pinned": true
+      }
+    ],
+    "familyTree": [
+      {
+        "id": "ay-f1",
+        "name": "Zeliha Yilmaz",
+        "relationType": "spouse",
+        "relationLabel": "Spouse",
+        "years": "1952 — Present"
+      },
+      {
+        "id": "ay-f2",
+        "name": "Zeynep Yilmaz",
+        "relationType": "child",
+        "relationLabel": "Daughter",
+        "years": "1980 — Present"
+      },
+      {
+        "id": "ay-f3",
+        "name": "Mehmet Yilmaz",
+        "relationType": "child",
+        "relationLabel": "Son",
+        "years": "1984 — Present"
+      }
+    ]
+  }
+]
